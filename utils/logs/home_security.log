@@ -1,0 +1,186 @@
+2024-08-29 02:43:26,079 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 47, in parser
+    self.commands.get(u_input[0])()
+TypeError: 'NoneType' object is not callable
+2024-08-29 02:43:40,549 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 47, in parser
+    self.commands.get(u_input[0])()
+TypeError: _task() missing 1 required positional argument: 'params'
+2024-08-29 02:46:38,398 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 47, in parser
+    self.commands.get(u_input[0])()
+TypeError: 'NoneType' object is not callable
+2024-08-29 02:46:53,426 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 45, in parser
+    self.commands.get(u_input[0])(u_input[1:])
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 84, in _load
+    if loaded:
+UnboundLocalError: local variable 'loaded' referenced before assignment
+2024-08-29 02:50:05,001 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 45, in parser
+    self.commands.get(u_input[0])(u_input[1:])
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 84, in _load
+    if loaded:
+UnboundLocalError: local variable 'loaded' referenced before assignment
+2024-08-29 02:50:53,969 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 45, in parser
+    self.commands.get(u_input[0])(u_input[1:])
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 84, in _load
+    if loaded:
+UnboundLocalError: local variable 'loaded' referenced before assignment
+2024-08-29 02:51:01,734 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 45, in parser
+    self.commands.get(u_input[0])(u_input[1:])
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 84, in _load
+    if loaded:
+UnboundLocalError: local variable 'loaded' referenced before assignment
+2024-08-29 02:51:58,578 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 45, in parser
+    self.commands.get(u_input[0])(u_input[1:])
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 84, in _load
+    if loaded:
+UnboundLocalError: local variable 'loaded' referenced before assignment
+2024-08-29 02:52:19,856 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 45, in parser
+    self.commands.get(u_input[0])(u_input[1:])
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 84, in _load
+    if loaded:
+UnboundLocalError: local variable 'loaded' referenced before assignment
+2024-08-29 02:52:30,248 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 45, in parser
+    self.commands.get(u_input[0])(u_input[1:])
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 84, in _load
+    if loaded:
+UnboundLocalError: local variable 'loaded' referenced before assignment
+2024-08-29 02:53:14,327 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 45, in parser
+    self.commands.get(u_input[0])(u_input[1:])
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 84, in _load
+    if loaded:
+UnboundLocalError: local variable 'loaded' referenced before assignment
+2024-08-29 02:57:38,038 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 45, in parser
+    self.commands.get(u_input[0])(u_input[1:])
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 84, in _load
+    if loaded:
+UnboundLocalError: local variable 'loaded' referenced before assignment
+2024-08-29 02:59:12,799 - Home Security Log - ERROR - There was an exception in  _unload
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 117, in _unload
+    for f in self.module.get_new_functions():
+AttributeError: 'NoneType' object has no attribute 'get_new_functions'
+2024-08-29 03:30:47,009 - Home Security Log - ERROR - There was an exception in  _unload
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 117, in _unload
+    for f in self.module.get_new_functions():
+AttributeError: 'NoneType' object has no attribute 'get_new_functions'
+2024-08-29 03:31:05,565 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 47, in parser
+    self.commands.get(u_input[0])()
+TypeError: _task() missing 1 required positional argument: 'params'
+2024-08-29 03:31:50,278 - Home Security Log - ERROR - There was an exception in  _unload
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 117, in _unload
+    for f in self.module.get_new_functions():
+AttributeError: 'NoneType' object has no attribute 'get_new_functions'
+2024-08-29 03:32:41,831 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 47, in parser
+    self.commands.get(u_input[0])()
+TypeError: _task() missing 1 required positional argument: 'params'
+2024-08-29 03:33:04,307 - Home Security Log - ERROR - There was an exception in  _run
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 132, in _run
+    raise ""
+TypeError: exceptions must derive from BaseException
+2024-08-29 03:33:07,000 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 47, in parser
+    self.commands.get(u_input[0])()
+TypeError: 'NoneType' object is not callable
+2024-08-29 03:33:08,096 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 47, in parser
+    self.commands.get(u_input[0])()
+TypeError: 'NoneType' object is not callable
+2024-08-29 03:34:26,719 - Home Security Log - ERROR - There was an exception in  _unload
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 117, in _unload
+    for f in self.module.get_new_functions():
+AttributeError: 'NoneType' object has no attribute 'get_new_functions'
+2024-08-29 03:34:30,415 - Home Security Log - ERROR - There was an exception in  _unload
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 117, in _unload
+    for f in self.module.get_new_functions():
+AttributeError: 'NoneType' object has no attribute 'get_new_functions'
+2024-08-29 03:34:34,222 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 45, in parser
+    self.commands.get(u_input[0])(u_input[1:])
+TypeError: 'NoneType' object is not callable
+2024-08-29 03:37:43,277 - Home Security Log - ERROR - There was an exception in  parser
+Traceback (most recent call last):
+  File "/Users/huahua/PycharmProjects/tool_template/utils/core/exception.py", line 11, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/huahua/PycharmProjects/tool_template/utils/shell/command_parser.py", line 47, in parser
+    self.commands.get(u_input[0])()
+TypeError: 'NoneType' object is not callable
